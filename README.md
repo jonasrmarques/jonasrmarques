@@ -31,4 +31,17 @@ Estou sempre aberto a novas oportunidades e conversas sobre tecnologia. Sinta-se
 **Tecnologias e Ferramentas**:
 
 ```plaintext
-JavaScript   ███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+## Linguagens e Tecnologias
+
+Aqui está uma visão geral das linguagens de programação que mais utilizo:
+
+<!-- Linguagem 1 -->
+![JavaScript](https://img.shields.io/badge/JavaScript-%E2%9C%94-brightgreen?style=flat&logo=javascript&logoColor=white)
+<!-- Linguagem 2 -->
+![Java](https://img.shields.io/badge/Java-%E2%9C%94-blue?style=flat&logo=java&logoColor=white)
+<!-- Linguagem 3 -->
+![HTML](https://img.shields.io/badge/HTML-%E2%9C%94-orange?style=flat&logo=html5&logoColor=white)
+<!-- Linguagem 4 -->
+![CSS](https://img.shields.io/badge/CSS-%E2%9C%94-blue?style=flat&logo=css3&logoColor=white)
+<!-- Linguagem 5 -->
+![SQL](https://img.shields.io/badge/SQL-%E2%9C%94-blue?style=flat&logo=postgresql&logoColor=white)
