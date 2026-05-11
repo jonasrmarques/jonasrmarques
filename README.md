@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6272a4,50:bd93f9,100:ff79c6&height=220&section=header&text=Jonas%20Rafael&fontSize=50&fontColor=fff&fontAlignY=40&desc=FullStack%20Developer%20%F0%9F%87%A7%F0%9F%87%B7%20%7C%20Building%20cool%20stuff%20%F0%9F%9A%80&descSize=16&descAlignY=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,40:1a3a5c,70:2176ae,100:57a0d3&height=220&section=header&text=Jonas%20Rafael&fontSize=50&fontColor=fff&fontAlignY=40&desc=FullStack%20Developer%20%F0%9F%87%A7%F0%9F%87%B7%20%7C%20Building%20cool%20stuff%20%F0%9F%9A%80&descSize=16&descAlignY=60&animation=fadeIn)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Desenvolvedor+FullStack+apaixonado+%F0%9F%94%A5;Python+%7C+Django+%7C+React+%7C+JavaScript;Sempre+construindo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=57A0D3&center=true&vCenter=true&width=500&lines=Desenvolvedor+FullStack+apaixonado+%F0%9F%94%A5;Python+%7C+Django+%7C+React+%7C+JavaScript;Sempre+construindo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,22 +10,22 @@
 
 > 🧑‍💻 **Sobre mim**
 >
-> Desenvolvedor fullstack apaixonado por criar soluções tecnológicas completas — do banco de dados ao pixel na tela. Atualmente desenvolvendo aplicações frontend e backend, sempre buscando código limpo e experiências de usuário que façam a diferença.
+> Desenvolvedor Fullstack focado em entregar aplicações completas, unindo boa arquitetura de backend com interfaces modernas no frontend.
 
 <div align="center">
 
-![FullStack](https://img.shields.io/badge/FullStack-Front%20%2B%20Back-bd93f9?style=flat-square&logo=code&logoColor=white)
-![Localização](https://img.shields.io/badge/Brasil-%F0%9F%87%A7%F0%9F%87%B7-6272a4?style=flat-square)
-![Status](https://img.shields.io/badge/Open%20to%20work-disponível-50fa7b?style=flat-square)
+![FullStack](https://img.shields.io/badge/FullStack-Front%20%2B%20Back-2176ae?style=flat-square&logo=code&logoColor=white)
+![Localização](https://img.shields.io/badge/Brasil-%F0%9F%87%A7%F0%9F%87%B7-1a3a5c?style=flat-square)
+![Status](https://img.shields.io/badge/Open%20to%20work-disponível-57a0d3?style=flat-square)
 
 ---
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=jonasrmarques&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&border_radius=16" height="150" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=jonasrmarques&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&border_radius=16" height="150" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=jonasrmarques&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=16" height="150" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=jonasrmarques&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&border_radius=16" height="150" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=jonasrmarques&theme=dracula&hide_border=true&border_radius=16" height="150" />
+<img src="https://streak-stats.demolab.com?user=jonasrmarques&theme=tokyonight&hide_border=true&border_radius=16" height="150" />
 
 ---
 
@@ -63,4 +63,4 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,50:bd93f9,100:6272a4&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:57a0d3,50:2176ae,100:0d1b2a&height=80&section=footer)
