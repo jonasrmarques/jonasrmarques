@@ -41,11 +41,9 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-1a3a5c?style=for-the-badge&logo=python&logoColor=57a0d3" />
-  <img src="https://img.shields.io/badge/React-1a3a5c?style=for-the-badge&logo=react&logoColor=57a0d3" />
   <img src="https://img.shields.io/badge/Django-1a3a5c?style=for-the-badge&logo=django&logoColor=57a0d3" />
-  <img src="https://img.shields.io/badge/JavaScript-1a3a5c?style=for-the-badge&logo=javascript&logoColor=57a0d3" />
+  <img src="https://img.shields.io/badge/React-1a3a5c?style=for-the-badge&logo=react&logoColor=57a0d3" />
   <img src="https://img.shields.io/badge/HTML5-1a3a5c?style=for-the-badge&logo=html5&logoColor=57a0d3" />
-  <img src="https://img.shields.io/badge/CSS3-1a3a5c?style=for-the-badge&logo=css3&logoColor=57a0d3" />
   <img src="https://img.shields.io/badge/Java-1a3a5c?style=for-the-badge&logo=openjdk&logoColor=57a0d3" />
 </div>
 
